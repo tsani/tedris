@@ -1,0 +1,5 @@
+package tedris
+
+opts = "-p contrib"
+
+modules = NatToFin, Game
